@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyNotes</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="delete_title">Do you want to delete the selected note?</string>
+    <string name="search">search</string>
+    <string name="theme">Theme:</string>
+    <string name="text_hint">Tap here to edit</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="sync_up">syncUp</string>
+    <string name="note_deleted">Your note deleted!</string>
+    <string name="success">Registration successful!</string>
+    <string name="error">Something happened!</string>
+    <string name="enter_email">Enter email address!</string>
+    <string name="enter_password">Enter password!</string>
+    <string name="com.optimizely.api_key" translatable="false">AANstCsB3KukA_B0SoiXze_bgw2Y-3Wt~10560944242</string>
+    <string name="short_password">Password too short, enter minimum 6 characters!</string>
+</resources>

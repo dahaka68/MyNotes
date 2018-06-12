@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyNotes</string>
+    <string name="yes">ДА</string>
+    <string name="no">НЕТ</string>
+    <string name="delete_title">Вы хотите удалить эту заметку?</string>
+    <string name="search">поиск</string>
+    <string name="theme">Тема:</string>
+    <string name="text_hint">Нажмите здесь</string>
+    <string name="sign_in">Войти</string>
+    <string name="hint_email">Эл. адрес</string>
+    <string name="hint_password">Пароль</string>
+    <string name="sync_up">syncUp</string>
+    <string name="note_deleted">Ваша заметка удалена!</string>
+    <string name="success">Вы успешно зарегистрировались!</string>
+    <string name="error">Что-то пошло не так!</string>
+    <string name="enter_email">Введите электронный адрес!</string>
+    <string name="enter_password">Введите пароль!</string>
+    <string name="short_password">Пароль слишком короткий, нужно не менее 6 символов!</string>
+</resources>
