@@ -19,6 +19,7 @@ class AddNoteActivity : AppCompatActivity() {
         supportActionBar?.apply { setDisplayHomeAsUpEnabled(true) }
         save_button.setOnClickListener {
             addNewNote()
+            //fvjnkf
         }
     }
 
